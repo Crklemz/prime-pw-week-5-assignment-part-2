@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  background-image: url(record.png);
+  background-repeat: repeat;
+}
+
+header {
+  background-color: #4B0082;
+  text-align: center;
+}
+
+h1, h2 {
+  color: #FFA500;
+}
+
+main {
+  padding: 1em;
+  background-color: #D3D3D3;
+}
